@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">BeaconScanner</string>
+    <string name="swipe_down_to_scan">Swipe down to scan</string>
+    <string name="permission_not_granted">Permission not granted</string>
+    <string name="click_stop_to_cancel_scan">Click stop to cancel scan</string>
+</resources>
